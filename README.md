@@ -2,7 +2,7 @@
 
 https://todo-app-19b96.web.app/
 
-#Functionality
+# Functionality
 
 - Add the todo
 - Edit the todo
